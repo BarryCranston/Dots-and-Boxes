@@ -5,6 +5,7 @@
 from tkinter import *
 import numpy as np
 
+#Setup the game variables
 size_of_board = 600
 number_of_dots = 6
 symbol_size = (size_of_board / 3 - size_of_board / 8) / 2
